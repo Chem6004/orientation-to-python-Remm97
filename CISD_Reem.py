@@ -1,0 +1,12 @@
+import numpy as np
+from matplotlib import pyplot as plt
+from scipy.interpolate import InterpolatedUnivariateSpline
+
+r_array = np.linspace(0.5, 3.5, 20)*1.88973
+print(r_array)
+
+E_array = [-107.1389493226, -110.8762342308, -112.2035650482, -112.6221628016, -112.6993448642, -112.6532021548,-112.5695515418, -112.4825450847, -112.4093307577, -112.3611216888, -112.3328706063, -112.3154788092, -112.3040496673, -112.0685479896, -112.2907699794, -112.2869226228, -112.0012243902, -111.9483767861, -111.9274012790, -112.2798664306]
+print(E_array)
+
+#plt.plot(r_array, E_array, 'red')
+#plt.show()
