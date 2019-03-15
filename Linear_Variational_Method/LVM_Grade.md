@@ -1,5 +1,5 @@
 - Submission on time: No, 1 day late -> 90%
-- Submission complete (All questions answered, code used to support answers): No -> 100%
+- Submission complete (All questions answered, code used to support answers): Yes -> 100%
 - Question 1 Answered Accurately: Yes -> 100%
 - Question 2 Answered Accurately: Yes -> 100%
 - Question 3 Answered Accurately: Partially (missing steps) -> 75%
