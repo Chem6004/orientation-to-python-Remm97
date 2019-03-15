@@ -7,4 +7,4 @@
 - Question 5 Answered Accurately: Partially -> 75%
 - Question 6 Answered Accurately: No (see solutions) -> 50%
 - Cumulative Accuracy for questions: 83.3
-- Final Grade for Orientation is 1/3(On Time + Complete + Accuracy) = 93.3
+- Final Grade for Orientation is 1/3(On Time + Complete + Accuracy) = 91
